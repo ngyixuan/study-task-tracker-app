@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "task2",
+      "day": "4 June 2023",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "task3",
+      "day": "5 June 2023",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "task4",
+      "day": "6 June 2023",
+      "reminder": true
+    },
+    {
+      "text": "task2",
+      "day": "",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
